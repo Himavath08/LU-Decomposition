@@ -46,9 +46,11 @@ print(X)
 ```
 
 ## Output:
-1) ![image](https://github.com/Himavath08/LU-Decomposition/assets/139110631/d15e8c35-0e65-41d8-a695-ff181c2ef11f)
+1)
+  ![image](https://github.com/Himavath08/LU-Decomposition/assets/139110631/d15e8c35-0e65-41d8-a695-ff181c2ef11f)
 
-2) ![Screenshot 2023-12-13 135953](https://github.com/Himavath08/LU-Decomposition/assets/139110631/2e2482b1-80d8-4c1e-a6ca-8c96d5d38cad)
+2)
+   ![Screenshot 2023-12-13 135953](https://github.com/Himavath08/LU-Decomposition/assets/139110631/2e2482b1-80d8-4c1e-a6ca-8c96d5d38cad)
 
 
 ## Result:
